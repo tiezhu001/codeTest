@@ -1,0 +1,6 @@
+D:\c#\C#\C#basaic\01-基础\02-Others\bin\Release\02-Others.exe.config
+D:\c#\C#\C#basaic\01-基础\02-Others\bin\Release\02-Others.exe
+D:\c#\C#\C#basaic\01-基础\02-Others\bin\Release\02-Others.pdb
+D:\c#\C#\C#basaic\01-基础\02-Others\obj\Release\02-Others.csprojResolveAssemblyReference.cache
+D:\c#\C#\C#basaic\01-基础\02-Others\obj\Release\02-Others.exe
+D:\c#\C#\C#basaic\01-基础\02-Others\obj\Release\02-Others.pdb

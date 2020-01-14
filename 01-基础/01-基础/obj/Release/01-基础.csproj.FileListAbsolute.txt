@@ -1,0 +1,8 @@
+D:\c#\C#\C#basaic\01-基础\01-基础\bin\Release\01-基础.exe
+D:\c#\C#\C#basaic\01-基础\01-基础\bin\Release\01-基础.pdb
+D:\c#\C#\C#basaic\01-基础\01-基础\obj\Release\01-基础.exe
+D:\c#\C#\C#basaic\01-基础\01-基础\obj\Release\01-基础.pdb
+<<<<<<< HEAD
+=======
+D:\c#\C#\C#basaic\01-基础\01-基础\obj\Release\01-基础.csprojResolveAssemblyReference.cache
+>>>>>>> 本地未提交的内容

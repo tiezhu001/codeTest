@@ -1,0 +1,2 @@
+D:\c#\C#\C#basaic\01-基础\Linq Test\bin\Release\Linq Test.exe.config
+D:\c#\C#\C#basaic\01-基础\Linq Test\obj\Release\Linq Test.csprojResolveAssemblyReference.cache

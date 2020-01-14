@@ -1,0 +1,6 @@
+D:\c#\C#\C#basaic\01-基础\01-基础\bin\Debug\01-基础.exe.config
+D:\c#\C#\C#basaic\01-基础\01-基础\bin\Debug\01-基础.exe
+D:\c#\C#\C#basaic\01-基础\01-基础\bin\Debug\01-基础.pdb
+D:\c#\C#\C#basaic\01-基础\01-基础\obj\Debug\01-基础.csprojResolveAssemblyReference.cache
+D:\c#\C#\C#basaic\01-基础\01-基础\obj\Debug\01-基础.exe
+D:\c#\C#\C#basaic\01-基础\01-基础\obj\Debug\01-基础.pdb
